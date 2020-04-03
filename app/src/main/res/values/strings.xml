@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchApplication</string>
+    <string name="search_toast_message">Please enter minimum 3 chars</string>
+    <string name="url">url</string>
+</resources>
